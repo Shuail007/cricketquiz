@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "https://github.com/Shuail007/cricketquiz/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/Shuail007/cricketquiz/favicon.ico",
+        "https://github.com/Shuail007/cricketquiz/index.html",
+        "https://github.com/Shuail007/cricketquiz/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://github.com/Shuail007/cricketquiz/main.5ddb27d45443106a2022.bundle.js",
+        "https://github.com/Shuail007/cricketquiz/polyfills.d38cc0d7c05d5aebd2bc.bundle.js",
+        "https://github.com/Shuail007/cricketquiz/scripts.7f8b770a5f080be06e69.bundle.js",
+        "https://github.com/Shuail007/cricketquiz/styles.0c8636ee2121e33e0147.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/Shuail007/cricketquiz/assets/css/common.css",
+        "https://github.com/Shuail007/cricketquiz/assets/data/data.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/Shuail007/cricketquiz/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://github.com/Shuail007/cricketquiz/assets/css/common.css": "54908c9e9d483288acd237eff0f8bda3489dd8bf",
+    "https://github.com/Shuail007/cricketquiz/main.5ddb27d45443106a2022.bundle.js": "1fb77903d9bd78a6569f0c3887fc25d2f8bcefee",
+    "https://github.com/Shuail007/cricketquiz/assets/data/data.json": "a7de9e852fa90e6a1303d163f344be00a61ea8fa",
+    "https://github.com/Shuail007/cricketquiz/polyfills.d38cc0d7c05d5aebd2bc.bundle.js": "2168f096b02282a0c925bfc525501ee31ab30825",
+    "https://github.com/Shuail007/cricketquiz/scripts.7f8b770a5f080be06e69.bundle.js": "4066c65f6908550259a8cf957157f136e2dca871",
+    "https://github.com/Shuail007/cricketquiz/styles.0c8636ee2121e33e0147.bundle.css": "9ee833dbd1ebe214b16422ff50f0267b747d6f4a",
+    "https://github.com/Shuail007/cricketquiz/favicon.ico": "8eff043d7208351ab321a7f9718119b74ee9ac5c",
+    "https://github.com/Shuail007/cricketquiz/index.html": "22c53cc0e175c8e30a20e7dd4f6a522d62f24502"
+  }
+}
